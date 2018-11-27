@@ -34,5 +34,7 @@ int main(int argc, char** argv){
     freeNode(node1);
     freeNode(node2);
     freeNode(node3);
+    
+    return EXIT_SUCCESS;
 
 }
